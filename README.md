@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm BELABIED Redouane</h1>
-<h3>From Algeria,Software Engineer Student at ESI</h3>
+<h3>Software Engineer Student at ESI,from Algeria</h3>
 
 - 🧑‍💻 I’m passionate mobile developer ( Android & iOS )
 
