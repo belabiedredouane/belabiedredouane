@@ -7,7 +7,6 @@
 - 🧑‍💻 I’m passionate mobile developer ( Android & iOS )
 
 - 💬 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-
 - <h3>Web development</h3>
 
 - 🧑‍💻 I’m passionate front end web developer ( Android & iOS )
