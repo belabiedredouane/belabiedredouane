@@ -9,7 +9,7 @@
 - 💬 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 <h3>Web development</h3>
 
-- 🧑‍💻 I’m passionate front end web developer ( Android & iOS )
+- 🧑‍💻 I’m passionate front end web developer 
 
 - 💬 Using [HTML5](https://www.w3schools.com/html/) , [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp) 
 
