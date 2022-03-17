@@ -2,12 +2,12 @@
 <h3>Engineer Student at ESI (Information Technologies),from Algeria</h3>
 
 <h2>Software skills:</h2>
-- <h3>Mobile app development</h3>
+<h3>Mobile app development</h3>
 
 - 🧑‍💻 I’m passionate mobile developer ( Android & iOS )
 
 - 💬 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- <h3>Web development</h3>
+<h3>Web development</h3>
 
 - 🧑‍💻 I’m passionate front end web developer ( Android & iOS )
 
