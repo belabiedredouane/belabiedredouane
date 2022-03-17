@@ -3,6 +3,7 @@
 
 <h2>Software skills:</h2>
 <h3>Mobile app development</h3>
+
 - 🧑‍💻 I’m passionate mobile developer ( Android & iOS )
 
 - 💬 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
