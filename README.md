@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm BELABIED Redouane</h1>
 <h3>Engineer Student at ESI (Option:Information Technology),from Algeria</h3>
 
-<a href="https://www.linkedin.com/in/redouane-belabied-b972261b4/" target="_blank"><img src="https://storyset.com/illustration/programmer/rafiki" width="40" height="40" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/redouane-belabied-b972261b4/" target="_blank"><img src="[https://storyset.com/illustration/programmer/rafiki](https://storyset.com/illustration/programming/amico)" width="40" height="40" alt="LinkedIn"></a>
 
 <h2>Software skills:</h2>
 <h3>Mobile app development</h3>
