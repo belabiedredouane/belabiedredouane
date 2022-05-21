@@ -6,24 +6,24 @@
 <h2>Software skills:</h2>
 <h3>Mobile app development</h3>
 
-- :iphone:  I’m passionate mobile developer ( Android & iOS )
+- 📱 I’m passionate mobile developer ( Android & iOS )
 
-- 💬 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
+- 💻 Using [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 <h3>Web development</h3>
 
-- 🧑‍💻 I’m passionate front end web developer 
+- 🌐 I’m passionate front end web developer 
 
-- 💬 Using [HTML5](https://www.w3schools.com/html/) , [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp) 
+- 💻 Using [HTML5](https://www.w3schools.com/html/) , [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp) 
 
 <h3>artificial intelligence</h3>
 
-- Machine learning Enthusiast
+- 👨‍💻 Machine learning Enthusiast
 
-- using [Python](https://www.python.org/) , [Tensorflow](https://www.tensorflow.org/?hl=fr) , [Numpy](https://numpy.org/)
+- 💻 using [Python](https://www.python.org/) , [Tensorflow](https://www.tensorflow.org/?hl=fr) , [Numpy](https://numpy.org/)
 
 <h3>Networking</h3>
 
-- I have CCNA 1,2 and 3 Issued by Cisco 
+- 🌐 I have CCNA 1,2 and 3 Issued by Cisco 
 
 
 <h3 align="left">Languages and Tools:</h3>
