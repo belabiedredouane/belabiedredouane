@@ -19,7 +19,6 @@
 <br />
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/redouane-belabied-b972261b4/" target="_blank"><img src="https://storyset.com/illustration/programming/amico.png" width="40" height="40" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/redouane-belabied-b972261b4/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"></a>
 <a href="https://web.facebook.com/amine.bela.33" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40" alt="Facebook"></a>
 <a href="https://www.instagram.com/redouane.csinfo/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram"></a>
