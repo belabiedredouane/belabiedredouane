@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm BELABIED Redouane</h1>
 <h3>Engineer Student at ESI (Option:Information Technology),from Algeria</h3>
 
-<img src="Programmer-rafiki.png" alt="flutter" width="200" height="200"/>
+<img src="Programmer-rafiki.png" alt="flutter" width="500" height="500"/>
 
 <h2>Software skills:</h2>
 <h3>Mobile app development</h3>
