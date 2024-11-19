@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm BELABIED Redouane</h1>
-<h3>Engineer Student at ESI (Option:Information Technology),from Algeria</h3>
+<h3>Software Engineerfrom Algeria</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belabiedredouane" alt="musheabdulhakim" /></a> 
  </p>
 
@@ -17,7 +17,7 @@
 
 - 💻 Using [HTML5](https://www.w3schools.com/html/) , [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp) 
 
-<h3>artificial intelligence</h3>
+<h3>Artificial intelligence</h3>
 
 - 👨‍💻 Machine learning Enthusiast
 
