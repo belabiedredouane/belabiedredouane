@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm BELABIED Redouane</h1>
 <h3>Software Engineer from Algeria</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belabiedredouane" alt="musheabdulhakim" /></a> 
- </p>
 
 <img src="Programmer-rafiki.png" alt="flutter" width="350" height="350"/>
 
