@@ -13,13 +13,13 @@ I'm a Software Engineer from Algeria.
 
 ## Most used languages & tools
 
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></code>
+<code><img height width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"></code>
+<code><img height="42" width="42"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></code>
