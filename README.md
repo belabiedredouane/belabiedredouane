@@ -1,16 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Belabied Redouane
 
-###
+My name is Belabied Redouane, and I'm a Software Engineer from Algeria.
 
-<p align="left">My name is Belabied Redouane and I'm a Software Engineer, from Algeria.</p>
+## About me
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-🧱 I’m currently working on flutter projects.<br>🔭 I maintain the [flutter_easy_translate](https://pub.dev/packages/flutter_easy_translate) package.<br>📚 I'm learning how to build values-based products.<br>💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).<br>🎲 Fun fact: creating bugs since 2019.</p>
+- 🧱 I’m currently working on several projects, including those at **Techno Edge Solution** ([TES](https://techno-edge.dz/)).
+- 🔭 I maintain the [flutter_easy_translate](https://pub.dev/packages/flutter_easy_translate) package.
+- 📚 I’m learning how to build value-driven and user-focused products.
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 🎲 Fun fact: I’ve been creating (and fixing) bugs since 2019.
 
 ## Most used tools
 
@@ -24,4 +22,3 @@
 <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"></code>
 <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></code>
-###
